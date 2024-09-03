@@ -1,0 +1,12 @@
+role : Software Developer
+years of experience : 2
+kaggle:5
+ml:7
+python:10
+mysql:4
+oracle:1
+pytorch:8
+scikit_learn:6
+JavaScript:2
+PHP:9
+django:3
